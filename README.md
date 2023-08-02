@@ -5,9 +5,10 @@
 - Responsive design for optimal viewing across devices.
   
 <div align="center">
-      <img src='screenshots/Untitled.png' alt='logo' width='100%' height="250px"/>
+      <img src='screenshots/Untitled.png' alt='logo' width='100%' height="fill"/>
 </div>
 ## Get Started
+
 ### Installation
 
 1. **_Clone the repository_**
