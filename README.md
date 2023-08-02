@@ -7,7 +7,6 @@
 <div align="center">
       <img src='screenshots/Untitled.png' alt='logo' width='100%' height="fill"/>
 </div>
-## Get Started
 
 ### Installation
 
