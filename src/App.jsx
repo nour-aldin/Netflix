@@ -1,7 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 
 // components
-import NavBar from "./components/NavBar";
 
 
 // pages
@@ -12,6 +11,7 @@ import Account from "./pages/Account";
 
 import { AuthContextProvider } from "./context/AuthContext";
 import ProtectedRoute from "./components/ProtectedRoute";
+import NavBar from "./components/Navbar";
 
 function App() {
   return (
